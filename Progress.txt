@@ -1,2 +1,0 @@
-The sidebar is working and it is also resizing properly. The entire webpage also loads as PDF. The PDF just does not highlight the correct things. It highlights random things. The UI is still bad.
-The fetching of the information is a bit slow.
